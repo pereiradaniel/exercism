@@ -1,7 +1,7 @@
-# EXERCISM-RUBY
+# EXERCISM
 ---
 
-Solutions and notes for Ruby exercises from exercism.io
+Solutions and notes for exercises from exercism.io
 
 ## NOTES
 
