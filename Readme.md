@@ -7,7 +7,6 @@ Visit (exercism.io)
 ## PROJECTS
 
 - [Ruby](https://github.com/pereiradaniel/exercism/tree/master/ruby/hello-world)
-- [Javascript]
 
 ---
 _*Daniel Paul Grech Pereira 2018*_
