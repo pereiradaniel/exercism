@@ -4,7 +4,7 @@
 Solutions and notes for exercises from exercism.io
 Visit (exercism.io)
 
-## PROJECTS
+## MODULES
 
 - [Ruby](https://github.com/pereiradaniel/exercism/tree/master/ruby/hello-world)
 
