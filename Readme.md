@@ -10,5 +10,3 @@ Visit (exercism.io)
 
 ---
 _*Daniel Paul Grech Pereira 2018*_
-
-(https://pereirawebdev.blogspot.ca)
